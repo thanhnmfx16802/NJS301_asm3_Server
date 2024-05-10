@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "thanhnmfx16802",
+    "MONGO_PASSWORD": "ZJFSha0loQVYLbP7",
+    "MONGO_DEFAULT_DATABASE": "asm03"
+  }
+}
